@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmailService/EmailService_May2024.iml" filepath="$PROJECT_DIR$/EmailService/EmailService_May2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MajorProject.iml" filepath="$PROJECT_DIR$/.idea/MajorProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentService/PaymentService_May2024.iml" filepath="$PROJECT_DIR$/PaymentService/PaymentService_May2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductCatalogService/ProductCatalogService.iml" filepath="$PROJECT_DIR$/ProductCatalogService/ProductCatalogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceDiscovery/ServiceDiscovery_May2024.iml" filepath="$PROJECT_DIR$/ServiceDiscovery/ServiceDiscovery_May2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserAuthenticationService/UserAuthenticationService.iml" filepath="$PROJECT_DIR$/UserAuthenticationService/UserAuthenticationService.iml" />
+    </modules>
+  </component>
+</project>
